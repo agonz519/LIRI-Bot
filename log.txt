@@ -37,3 +37,61 @@ Check next section for logs
 
 Artist: Metallica"Seek & Destroy (Remastered)" from the album: Kill 'Em All (Remastered)
 
+=====================================================================
+COMMAND CALLED: my-tweets
+
+1. "Our society should be similar to this but we are still too primitive unfortunately https://t.co/iZqEsURYPb" created at: Tue Apr 17 04:06:05 +0000 2018
+
+2. "Jordan Peterson is the friggin' man! Such an inspirational person. Highly recommend you listen to his podcasts and/… https://t.co/vI7wdKdia1" created at: Tue Apr 17 04:04:56 +0000 2018
+
+3. "chirp chirp chirp" created at: Tue Apr 17 03:55:15 +0000 2018
+
+4. "I like playing video games." created at: Tue Apr 17 03:55:04 +0000 2018
+
+5. "I like to go hiking." created at: Tue Apr 17 03:54:55 +0000 2018
+
+6. "I am learning Node!" created at: Tue Apr 17 03:52:46 +0000 2018
+
+7. "Testing tweets" created at: Tue Apr 17 02:57:24 +0000 2018
+
+8. "Hello Twitter! #myfirstTweet" created at: Tue Apr 17 02:20:12 +0000 2018
+
+=====================================================================
+COMMAND CALLED: my-tweets
+
+1. "Our society should be similar to this but we are still too primitive unfortunately https://t.co/iZqEsURYPb" created at: Tue Apr 17 04:06:05 +0000 2018
+
+2. "Jordan Peterson is the friggin' man! Such an inspirational person. Highly recommend you listen to his podcasts and/… https://t.co/vI7wdKdia1" created at: Tue Apr 17 04:04:56 +0000 2018
+
+3. "chirp chirp chirp" created at: Tue Apr 17 03:55:15 +0000 2018
+
+4. "I like playing video games." created at: Tue Apr 17 03:55:04 +0000 2018
+
+5. "I like to go hiking." created at: Tue Apr 17 03:54:55 +0000 2018
+
+6. "I am learning Node!" created at: Tue Apr 17 03:52:46 +0000 2018
+
+7. "Testing tweets" created at: Tue Apr 17 02:57:24 +0000 2018
+
+8. "Hello Twitter! #myfirstTweet" created at: Tue Apr 17 02:20:12 +0000 2018
+
+=====================================================================
+ COMMAND CALLED: spotify-this-song PARAMETER USED: Ungrateful Are the Dead
+
+Artist: Graveyard"Ungrateful Are The Dead" from the album: Hisingen Blues
+
+=====================================================================
+ COMMAND CALLED: movie-this PARAMETER USED: Enter the Void
+
+Enter the Void20097.3/1071%France, Germany, Italy, CanadaEnglish, JapaneseA French drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.Paz de la Huerta, Nathaniel Brown, Cyril Roy, Olly Alexander
+
+=====================================================================
+COMMAND CALLED: do-what-it-says
+
+Check next section for logs
+
+=====================================================================
+ COMMAND CALLED: spotify-this-song PARAMETER USED: "Seek and Destroy"
+
+Artist: Metallica"Seek & Destroy (Remastered)" from the album: Kill 'Em All (Remastered)
+
